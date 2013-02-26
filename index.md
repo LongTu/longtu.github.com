@@ -1,14 +1,9 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: About Long
+
 ---
-{% include JB/setup %}
-
-Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
-
-Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
-
+Long is pursuing his master degree in Carnegie Mellon University. His major is Information Networking. He received his bachelor degree in Software Engineering from Wuhan University.
 
 
 
