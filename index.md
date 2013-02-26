@@ -12,16 +12,16 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
 
 placeholder
 ---
-placeholder
+#placeholder
 ---
-placeholder
+#placeholder
 
 ## To-Do
 
 placeholder
 ---
-placeholder
+#placeholder
 ---
-placeholder
+#placeholder
 
 
