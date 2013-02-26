@@ -10,9 +10,14 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
     
 ## Pet Projects for fun
 
+placeholder
+placeholder
+placeholder
 
 ## To-Do
 
-
+placeholder
+placeholder
+placeholder
 
 
