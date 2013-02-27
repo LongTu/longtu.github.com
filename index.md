@@ -14,7 +14,7 @@ Projects
 
 
 <hr />
-<p>Vine Stream (<a href='http://vinestream.co/random'>Demo</a>)<br />Facebook Data Visualization (<a href='http://visualfbdata.appspot.com/'>Demo</a> | <a href='https://github.com/gaohao/visual-fb-data'>Source Code</a>)<br />Improved Codepad for Codepad.org (<a href='http://codehere.haogao.me/'>Demo</a> | <a href='https://github.com/gaohao/codehere'>Source Code</a>)<br />Simple REST framework (<a href='https://github.com/gaohao/rs'>Source Code</a>)</p>
+<p>Vine Stream (<a href=''>Demo</a>)<br />demo1 (<a href='/'>Demo</a> | <a href=''>Source Code</a>)<br />Improved Codepad for Codepad.org (<a href=''>Demo</a> | <a href=''>Source Code</a>)<br />demo2 (<a href=''>Source Code</a>)</p>
 <br /><br />
 <h1 id='recent_posts'>Recent posts</h1>
 <hr /><ul class='posts'>
