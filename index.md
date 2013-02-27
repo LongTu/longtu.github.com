@@ -7,9 +7,8 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
 
 
 ---
-Projects
 
-    
+
 <h1 id='pet_projects_for_fun'>Projects for fun</h1>
 
 
