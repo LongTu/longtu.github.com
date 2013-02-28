@@ -10,11 +10,14 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
 ---
 
 
-<h4 id='pet_projects_for_fun'>Projects for fun</h4>
+<h4 id='pet_projects_for_fun'>Projects</h4>
 
 
 <hr />
 <p>demo1(<a href=''>Demo</a>)<br />demo2 (<a href='/'>Demo</a> | <a href=''>Source Code</a>)<br />demo3 (<a href=''>Demo</a> | <a href=''>Source Code</a>)<br />demo4 (<a href=''>Source Code</a>)</p>
 <br /><br />
-<h4 id='recent_posts'>Recent posts</h4>
-<hr /><ul class='posts'>
+<h4 id='Publications'>Publications for fun</h4>
+Research on communication law of negative news, taking Chinese colleges as an example(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1Rzc1YnByUExTWjQ/edit?usp=sharing'>pdf</a>)<br />
+A QUANTITATIVE ANALYSIS OF TOURIST DESTINATION IMAGES BASED ON ECSPT MODEL AND SENTIMENT ANALYSIS(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1T3FVaW1DV3VhVk0/edit?usp=sharing'>pdf</a>)<br />
+
+
