@@ -15,7 +15,6 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
 
 <hr />
 <p>demo1(<a href=''>Demo</a>)<br />demo2 (<a href='/'>Demo</a> | <a href=''>Source Code</a>)<br />demo3 (<a href=''>Demo</a> | <a href=''>Source Code</a>)<br />demo4 (<a href=''>Source Code</a>)</p>
-<br />
 
 
 ---
