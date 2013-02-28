@@ -4,7 +4,7 @@ title: Long Tu's Home Page
 
 ---
 <h4 id='About Long<'>About Long</h4>
-Long is pursuing his master degree in Carnegie Mellon University. His major is Information Networking. He received his bachelor degree in Software Engineering from <p>Wuhan University(<a href='http://en.wikipedia.org/wiki/Wuhan_University#Rankings'>Rankings</a>).
+Long is pursuing his master degree in Carnegie Mellon University. His major is Information Networking. He received his bachelor degree in Software Engineering from Wuhan University(<a href='http://en.wikipedia.org/wiki/Wuhan_University#Rankings'>Rankings</a>).
 
 
 ---
