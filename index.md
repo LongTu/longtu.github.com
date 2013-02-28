@@ -22,3 +22,7 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
    <h5> &diams;Research on communication law of negative news, taking Chinese colleges as an example(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1Rzc1YnByUExTWjQ/edit?usp=sharing'>pdf</a>)</h5>
    The Asian Conference on Media& Mass Communication,2011 <br />
 
+<h4 id='Personal'>Personal</h4>
+I'm a good swimmer, I swam across a branch of Yangtze River at the age of twelve.</br>
+To relax, I play Chinese chess.</br>
+
