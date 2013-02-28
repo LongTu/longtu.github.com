@@ -23,6 +23,6 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
    The Asian Conference on Media& Mass Communication,2011 <br />
 
 <h4 id='Personal'>Personal</h4>
-I'm a good swimmer, I swam across a branch of Yangtze River at the age of twelve.</br>
-To relax, I play Chinese chess.</br>
+I'm a good swimmer, I swam across a branch of Yangtze River at the age of twelve.<br />
+To relax, I play Chinese chess.<br />
 
