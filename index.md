@@ -19,6 +19,6 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
 <h4 id='Publications'>Publications for fun</h4>
    <h5> &diams; A quantitative analysis of tourist destination images based on ecspt model and sentiment analysis(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1T3FVaW1DV3VhVk0/edit?usp=sharing'>pdf</a>)</h5><br />
    2nd International Conference on Information, Networking and Automation,2011<br />
-   <h5> &diams;Research on communication law of negative news, taking Chinese colleges as an example(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1Rzc1YnByUExTWjQ/edit?usp=sharing'>pdf</a>)</h5><br />
+   <h5> &diams;Research on communication law of negative news, taking Chinese colleges as an example(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1Rzc1YnByUExTWjQ/edit?usp=sharing'>pdf</a>)</h5>
    The Asian Conference on Media& Mass Communication,2011 <br />
 
