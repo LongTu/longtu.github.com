@@ -17,8 +17,8 @@ Long is pursuing his master degree in Carnegie Mellon University. His major is I
 <p>
 Blog Application(<a href='http://mcstcblog.appspot.com'>Demo</a>)<br />
 Algorithm: Chinese Word Segmentation(<a href='http://a08805436.net63.net/fenci.php'>Demo</a>)<br />
-Word Frequency Statistics (<a href='http://longtu12fall.appspot.com/'>Demo</a> | <a href=''>Source Code</a>)<br />
-Online Compiler (<a href='http://interestingcompiler.appspot.com/'>Demo</a> | <a href=''>Source Code</a>)<br />
+Word Frequency Statistics (<a href='http://longtu12fall.appspot.com/'>Demo</a>)<br />
+Online Compiler (<a href='http://interestingcompiler.appspot.com/'>Demo</a> )<br />
 </p>
 
 
