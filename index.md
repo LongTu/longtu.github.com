@@ -4,7 +4,22 @@ title: Long Tu's Home Page
 
 ---
 <h4 id='About Long<'>About Long</h4>
-Long is pursuing his master degree in Carnegie Mellon University. His major is Information Networking. He received his bachelor degree in Software Engineering from Wuhan University.
+1st year master student in Information Networking Institute at Carnegie Mellon University. Long is major on Information Networking program, and his heart is on web programming and data processing
+<br />
+Strong problem solving skills in both designing and implementing;
+<br />
+Strong debug skills in Java/C#/Python/Php
+<br />
+Excellent both team work and independent work ability, leadership, communication, presentation, time management skills, and ability to work under high pressure.
+<br />
+<br />
+Specialties:# Programming Languages: Proficient in Java,C#, Familiar with Python, Php, HTML, JavaScript, Use of Unix Shell Scripts.
+<br />
+# Development Tools: Eclipse, Visual Studio.
+<br />
+# Operating System:Mac OS, Windows, Linux (Fedora/Ubuntu).
+<br />
+# Database: MySQL/SQL Server
 
 
 ---
