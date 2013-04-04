@@ -15,11 +15,11 @@ Excellent both team work and independent work ability, leadership, communication
 <br />
 Specialties:# Programming Languages: Proficient in Java,C#, Familiar with Python, Php, HTML, JavaScript, Use of Unix Shell Scripts.
 <br />
-# Development Tools: Eclipse, Visual Studio.
+ Development Tools: Eclipse, Visual Studio.
 <br />
-# Operating System:Mac OS, Windows, Linux (Fedora/Ubuntu).
+ Operating System:Mac OS, Windows, Linux (Fedora/Ubuntu).
 <br />
-# Database: MySQL/SQL Server
+Database: MySQL/SQL Server
 
 
 ---
