@@ -4,7 +4,7 @@ title: Long Tu's Home Page
 
 ---
 <h4 id='About Long<'>About Long</h4>
-1st year master student in Information Networking Institute at Carnegie Mellon University. Long is major on Information Networking program, and his heart is on web programming and data processing
+First year master student at Carnegie Mellon University. Long is major on Information Networking program, and his heart is on web programming and data processing
 <br />
 
 ---
