@@ -27,7 +27,7 @@ Library Information System for Wuhan University(<a href='http://datamining.lib.w
 
 ---
 <h4 id='Publications'>Publications</h4>
-<P>
+
 
    <h5> &diams; A quantitative analysis of tourist destination images based on ecspt model and sentiment analysis(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1T3FVaW1DV3VhVk0/edit?usp=sharing'>pdf</a>)</h5><br />
    2nd International Conference on Information, Networking and Automation,2011<br />
