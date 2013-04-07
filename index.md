@@ -27,6 +27,11 @@ Library Information System for Wuhan University(<a href='http://datamining.lib.w
 
 ---
 <h4 id='Publications'>Publications</h4>
+<P><ul>
+       <li>            
+	    <B> Visual, Log-based Causal Tracing for Performance Debugging of MapReduce Systems</b><BR> Jiaqi Tan, Soila Kavulya, Rajeev Gandhi, Priya Narasimhan. to be presented at <i>IEEE International Conference on Distributed Computing Systems (ICDCS)</i>, Genoa, Italy, Jun 2010
+            <li>
+
    <h5> &diams; A quantitative analysis of tourist destination images based on ecspt model and sentiment analysis(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1T3FVaW1DV3VhVk0/edit?usp=sharing'>pdf</a>)</h5><br />
    2nd International Conference on Information, Networking and Automation,2011<br />
    <h5> &diams; Research on communication law of negative news, taking Chinese colleges as an example(<a href='https://docs.google.com/file/d/0B04t2oEv2WE1Rzc1YnByUExTWjQ/edit?usp=sharing'>pdf</a>)</h5>
