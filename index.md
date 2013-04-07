@@ -6,7 +6,7 @@ title: Long Tu's Home Page
 <h4 id='About Long<'>About Long</h4>
 First year master student at <a href="http://www.cmu.edu/">Carnegie Mellon University</a>. Long is major on Information Networking program, and his heart is on web programming and data processing
 <br />
-Please contact me via <a>longt@cmu.edu</a>
+Email: <a>longt@cmu.edu</a>
 <br />
 
 ---
