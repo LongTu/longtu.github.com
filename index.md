@@ -5,9 +5,9 @@ title: Long Tu's Home Page
 ---
 
 <h4 id='About Long<'>About Long</h4>
-Second year master student at <a href="http://www.cmu.edu/">Carnegie Mellon University</a>. Long is major on Information Networking program. Before that, he received his Bachelor's degree in Software Engineering from Wuhan Univerisity.
+Long is currently working in Drawbridge as a Software Engineer. He graduated with his Masters degree from Carnegie Mellon University. He has around 4 years of Software Industry experience. His current interests are Distributed Systems, Big Data and Hadoop
 <br />
-Contact Long: <a>longt@cmu.edu</a>
+Contact Long: <a>longtu12fall@gmail.com</a>
 <br />
 
 ---
