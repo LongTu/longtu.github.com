@@ -15,6 +15,20 @@ Contact Long: <a>longt@cmu.edu</a>
 ---
 
 
+<h4 id='working'>Working Experience</h4>
+
+<hr />
+<p>
+2014 - Current:  Software Engineer @(<a href='https://www.crunchbase.com/organization/drawbridge'>Drawbridge</a>) <br />
+2013 Summber  :  Software Engineering Intern @(<a href='http://www.polycom.com/'>Polycom</a>)
+2011 - 2012   :  Research Assistant @(<a href='http://www.sklse.whu.edu.cn'>State Key Lab of Software Engineering, China</a>) <br />
+2010 - 2011   :  Research Assistant @(<a href='http://www.whu.edu.cn'>Internet Science Reseach Center, Wuhan University</a>) <br />
+
+
+</p>
+
+
+--
 <h4 id='pet_projects_for_fun'>Projects</h4>
 
 
