@@ -35,4 +35,5 @@ Library Information System for Wuhan University(<a href='http://datamining.lib.w
    <i>The Asian Conference on Media and Mass Communication,2011</i><br />
    
   
-
+<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
+<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/longtu" data-format="inline"></script>
