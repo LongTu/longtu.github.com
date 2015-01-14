@@ -35,7 +35,7 @@ Contact Long: <a>longtu12fall@gmail.com</a>
 Master in Information Networking,                     2012 - 2014  <br />
 <h5>Wuhan University</h5> 
 Bachelor of Engineering, Software Engineering,        2008 - 2012  <br/>
-
+Honors: Outstanding Graduates
 </p>
 ---
 
