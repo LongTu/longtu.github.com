@@ -34,7 +34,7 @@ Library Information System for Wuhan University(<a href='http://datamining.lib.w
 ---
    <h5> &bull; A Quantitative Analysis of Tourist Destination Images Based on Ecspt Model and Sentiment Analysis(<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6219134'>link</a>)</h5>
    <i>2012 IEEE Symposium on Robotics and Applications(ISRA)</i><br />
-   <h5> &bull; Research on communication law of negative news, taking Chinese colleges as an example</h5>
+   <h5> &bull; Research on Communication Law of Negative News</h5>
    <i>The Asian Conference on Media and Mass Communication,2011</i><br />
    
   
