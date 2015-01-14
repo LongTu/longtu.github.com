@@ -27,6 +27,27 @@ Contact Long: <a>longt@cmu.edu</a>
 
 </p>
 
+---
+
+<h4 id='Education'>Education</h4>
+---
+<hr />
+<p>
+Master in Information Networking, 2012 - 2014, Carnegie Mellon University  <br />
+Bachelor of Engineering, Software Engineering, 2008 - 2012, Wuhan University, China <br/>
+
+</p>
+---
+
+
+
+
+<h4 id='Publications'>Publications</h4>
+---
+   <h5> &bull; A Quantitative Analysis of Tourist Destination Images Based on Ecspt Model and Sentiment Analysis(<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6219134'>link</a>)</h5>
+   <i>2012 IEEE Symposium on Robotics and Applications(ISRA)</i><br />
+   <h5> &bull; Research on Communication Law of Negative News</h5>
+   <i>The Asian Conference on Media and Mass Communication,2011</i><br />
 
 ---
 
@@ -46,12 +67,7 @@ Library Information System for Wuhan University(<a href='http://datamining.lib.w
 ---
 
 
-<h4 id='Publications'>Publications</h4>
----
-   <h5> &bull; A Quantitative Analysis of Tourist Destination Images Based on Ecspt Model and Sentiment Analysis(<a href='http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6219134'>link</a>)</h5>
-   <i>2012 IEEE Symposium on Robotics and Applications(ISRA)</i><br />
-   <h5> &bull; Research on Communication Law of Negative News</h5>
-   <i>The Asian Conference on Media and Mass Communication,2011</i><br />
+
    
   
 
