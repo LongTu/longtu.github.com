@@ -31,7 +31,7 @@ Contact Long: <a>longt@cmu.edu</a>
 
 <h4 id='Education'>Education</h4>
 ---
-<hr />
+
 <p>
 Master in Information Networking, 2012 - 2014, Carnegie Mellon University  <br />
 Bachelor of Engineering, Software Engineering, 2008 - 2012, Wuhan University, China <br/>
