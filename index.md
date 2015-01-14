@@ -3,8 +3,6 @@ layout: page
 title: Long Tu's Home Page
 
 ---
-<script src="//platform.linkedin.com/in.js" type="text/javascript"></script>
-<script type="IN/MemberProfile" data-id="https://www.linkedin.com/in/longtu" data-format="inline"></script>
 
 <h4 id='About Long<'>About Long</h4>
 Second year master student at <a href="http://www.cmu.edu/">Carnegie Mellon University</a>. Long is major on Information Networking program. Before that, he received his Bachelor's degree in Software Engineering from Wuhan Univerisity.
