@@ -17,7 +17,6 @@ Contact Long: <a>longt@cmu.edu</a>
 
 <hr />
 <p>
-Algorithm: Chinese Word Segmentation(<a href='http://a08805436.comyr.com/fenci.php'>Demo</a>)<br />
 Blog Application(<a href='http://mcstcblog.appspot.com'>Demo</a>)<br />
 Word Frequency Statistics (<a href='http://longtu12fall.appspot.com/'>Demo</a>)<br />
 Online Compiler (<a href='http://interestingcompiler.appspot.com/'>Demo</a>)<br />
