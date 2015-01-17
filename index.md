@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Long Tu's Home Page
