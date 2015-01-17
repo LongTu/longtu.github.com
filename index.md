@@ -5,7 +5,7 @@ title: Long Tu's Home Page
 ---
 
 <h4 id='About Long<'>About Long</h4>
-Long is currently working as a Software Engineer in San Francisco Bay Area. He graduated with his Masters degree from Carnegie Mellon University. He has around 4 years of Software Industry experience. His current interests are Distributed Systems, Big Data and Hadoop
+Long is currently working as a Software Engineer in San Francisco Bay Area. He graduated with his Masters degree from Carnegie Mellon University. His current interests are Distributed Systems, Big Data and Hadoop
 <br />
 Contact Long: <a>longtu12fall@gmail.com</a>
 <br />
