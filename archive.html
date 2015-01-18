@@ -7,6 +7,68 @@ group: navigation
 
 
 
+<script type="text/javascript" src="fusioncharts.js"></script>
+<script type="text/javascript" src="fusioncharts.theme.fint.js"></script>
+<script type="text/javascript">
+  FusionCharts.ready(function(){
+    var revenueChart = new FusionCharts({
+        "type": "doughnut3D",
+        "renderAt": "chartContainer",
+        "width": "1500",
+        "height": "800",
+        "dataFormat": "json",
+        "dataSource":  {
+          "chart": {
+            "caption": "Programming Languages",
+            "subCaption": "Lines of code",
+            "xAxisName": "Month",
+            "yAxisName": "Revenues (In USD)",
+            "theme": "fint"
+         },
+         "data": [
+            {
+               "label": "Pig Latin",
+               "value": "420000"
+            },
+            {
+               "label": "Java",
+               "value": "810000"
+            },
+            {
+               "label": "Python",
+               "value": "720000"
+            },
+            {
+               "label": "SQL",
+               "value": "550000"
+            },
+            {
+               "label": "HTML/Javascript",
+               "value": "550000"
+            },
+            {
+               "label": "C#",
+               "value": "550000"
+            },
+            {
+               "label": "C/C++",
+               "value": "12000"
+            },
+          ]
+      }
+
+  });
+revenueChart.render();
+})
+</script>
+</head>
+<body>
+  <div id="chartContainer">FusionCharts XT will load here!</div>
+</body>
+
+
+
+
 
 <p>
 Blog Application(<a href='http://mcstcblog.appspot.com'>Demo</a>)<br />
