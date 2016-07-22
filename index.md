@@ -20,8 +20,6 @@ Contact Long: <a>longtu12fall@gmail.com</a>
 2015 - Present:  Senior Software Engineer @(<a href='http://www.symantec.com'>Symantec</a>) <br />
 2014 - 2015:  Software Engineer @(<a href='https://www.crunchbase.com/organization/drawbridge'>Drawbridge</a>) <br />
 2013 Summer  :  Software Engineering Intern @(<a href='http://www.polycom.com/'>Polycom</a>)<br />
-2011 - 2012   :  Software Engineer @(<a href='http://www.whu.edu.cn'>Internet Science Reseach Center, Wuhan University</a>) <br />
-2011 Summer   :  Software Engineering Intern @(<a href='http://www.chinasofti.com/'>ChinaSoft International</a>) <br />
 2009 - 2011   :  Research Assistant @(<a href='http://www.sklse.whu.edu.cn'>State Key Lab of Software Engineering, China</a>) <br />
 
 
